@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="Fatemeh Sayadzadeh. I implement algorithms from scratch, then check what they actually learned. M.Sc. in Artificial Intelligence at Isfahan University of Technology, B.Sc. in Computer Engineering at the University of Isfahan, teaching assistant. An animation draws the best tour that my genetic algorithm found through 50 cities." width="100%">
+    <img src="assets/hero-light.svg" alt="Fatemeh Sayadzadeh. I'm eager to learn new and interesting things. M.Sc. in Artificial Intelligence at Isfahan University of Technology, B.Sc. in Computer Engineering at the University of Isfahan, teaching assistant. An animation draws the best tour that my genetic algorithm found through 50 cities." width="100%">
   </picture>
 </p>
 
