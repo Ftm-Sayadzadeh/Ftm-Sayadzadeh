@@ -21,7 +21,7 @@ I also have hands-on experience in full-stack and back-end development (React, V
 
 #### [CodeQAPass](https://github.com/Ftm-Sayadzadeh/CodeQAPass) — a question-driven RAG system for understanding Python codebases
 
-<a href="https://github.com/Ftm-Sayadzadeh/CodeQAPass"><img src="assets/codeqapass-workspace.png" alt="The CodeQAPass workspace" width="100%"></a>
+<a href="https://github.com/Ftm-Sayadzadeh/CodeQAPass"><img src="assets/codeqapass.png" alt="The CodeQAPass workspace answering a Persian question about a hospital-system repository, with a grounded answer, the retrieval mode and model used, and links to the cited files." width="100%"></a>
 
 Ask a question about a Python repository in **Persian or English** and get a grounded answer with **verified citations** to the exact file, symbol and line range. Python's AST extracts the code structure, SQLite holds the metadata, ChromaDB the vectors, and a hybrid of lexical and semantic retrieval feeds an LLM. The LLM writes the explanation; the citations always come from the stored metadata, never from the model.
 
