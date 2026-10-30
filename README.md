@@ -70,7 +70,7 @@ Ask a question about a Python repository in **Persian or English** and get a gro
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/curve-dark.svg">
-    <img src="assets/curve-light.svg" alt="An illustrative learning curve with milestones: programming basics, advanced programming, data structures, a Star Academy internship, IoT, an internship and a software engineering team project, ML, DL and computational intelligence with a bachelor's thesis, and an M.Sc. in AI." width="100%">
+    <img src="assets/curve-light.svg" alt="An illustrative learning curve with milestones: programming basics, advanced programming, data structures, a Star Academy internship, AI Fundamentals and IoT, an internship and a software engineering team project, ML, DL and computational intelligence with a bachelor's thesis, and an M.Sc. in AI." width="100%">
   </picture>
 </p>
 
