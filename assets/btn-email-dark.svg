@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 44" width="128" height="44" role="img" aria-label="Email">
+<title>Email</title>
+<rect x="1" y="1" width="126" height="42" rx="21.0" fill="#10151d" stroke="#a5b4fc" stroke-width="1.6"/>
+<text x="56" y="28" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="15" font-weight="600" fill="#a5b4fc">Email</text>
+<path d="M92,29 L102,19 M95,19 L102,19 L102,26" fill="none" stroke="#a5b4fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

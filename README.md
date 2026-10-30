@@ -1,26 +1,25 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="Fatemeh Sayadzadeh. I implement algorithms from scratch, then check what they actually learned. An animation draws the best tour that my genetic algorithm found through 50 cities." width="100%">
+    <img src="assets/hero-light.svg" alt="Fatemeh Sayadzadeh. I implement algorithms from scratch, then check what they actually learned. M.Sc. in Artificial Intelligence at Isfahan University of Technology, B.Sc. in Computer Engineering at the University of Isfahan, teaching assistant. An animation draws the best tour that my genetic algorithm found through 50 cities." width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="mailto:ftmdkf@gmail.com"><img src="https://img.shields.io/badge/Email-ftmdkf%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/fatemeh-sayadzadeh/"><img src="https://img.shields.io/badge/LinkedIn-Fatemeh%20Sayadzadeh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ftmdkf@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="44"></picture></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/fatemeh-sayadzadeh/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="44"></picture></a>
 </p>
 
-## About
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-about-dark.svg"><img src="assets/sec-about-light.svg" alt="About" width="100%"></picture></h3>
 
 I hold a B.Sc. in computer engineering from the University of Isfahan and I'm now an **M.Sc. student in Artificial Intelligence at Isfahan University of Technology**. I like to build an algorithm myself first — a neural network, a genetic algorithm, a retrieval pipeline — and then measure what it actually learned, including where it falls short. I have also spent several semesters teaching the courses I took.
 
-- 💻 Experienced in full-stack and back-end development (React, Vue.js, Django, .NET)
-- 👩‍🏫 Teaching assistant for many core CS courses (see [below](#-teaching))
-- 📍 Isfahan, Iran
+I also have hands-on experience in full-stack and back-end development (React, Vue.js, Django, .NET).
 
-## 🎓 Bachelor's thesis
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-thesis-dark.svg"><img src="assets/sec-thesis-light.svg" alt="Bachelor's thesis" width="100%"></picture></h3>
 
-### [CodeQAPass](https://github.com/Ftm-Sayadzadeh/CodeQAPass) — a question-driven RAG system for understanding Python codebases
+#### [CodeQAPass](https://github.com/Ftm-Sayadzadeh/CodeQAPass) — a question-driven RAG system for understanding Python codebases
 
 <a href="https://github.com/Ftm-Sayadzadeh/CodeQAPass"><img src="assets/codeqapass-workspace.png" alt="The CodeQAPass workspace" width="100%"></a>
 
@@ -32,7 +31,7 @@ Ask a question about a Python repository in **Persian or English** and get a gro
 
 [Repository](https://github.com/Ftm-Sayadzadeh/CodeQAPass) · [Thesis report (PDF)](https://github.com/Ftm-Sayadzadeh/CodeQAPass/blob/main/docs/Fatemeh_Sayadzadeh_CodeCompass_Final_Report.pdf)
 
-## 💼 Software engineering and internships
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-work-dark.svg"><img src="assets/sec-work-light.svg" alt="Software engineering and internships" width="100%"></picture></h3>
 
 <table>
   <tr>
@@ -65,7 +64,7 @@ Ask a question about a Python repository in **Persian or English** and get a gro
   </tr>
 </table>
 
-## 📈 My learning curve
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-curve-dark.svg"><img src="assets/sec-curve-light.svg" alt="Learning curve" width="100%"></picture></h3>
 
 <p align="center">
   <picture>
@@ -74,9 +73,9 @@ Ask a question about a Python repository in **Persian or English** and get a gro
   </picture>
 </p>
 
-## 📚 Coursework
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-courses-dark.svg"><img src="assets/sec-courses-light.svg" alt="Coursework" width="100%"></picture></h3>
 
-Every course project is in a repository of its own:
+Every course project lives in a repository of its own.
 
 | Course | Repositories |
 |---|---|
@@ -91,18 +90,21 @@ Every course project is in a repository of its own:
 | **Software Engineering** | [UCMS](https://github.com/Ftm-Sayadzadeh/UCMS) |
 | **Self-study** | [RolePlayGame](https://github.com/Ftm-Sayadzadeh/RolePlayGame) (C#) |
 
-## 🍎 Teaching
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-teaching-dark.svg"><img src="assets/sec-teaching-light.svg" alt="Teaching" width="100%"></picture></h3>
 
 Teaching assistant at the University of Isfahan for **AI Fundamentals and Applications**, **Data Mining**, **Database Design Principles**, **Operating Systems**, **Formal Languages and Automata Theory**, **Data Structures**, **Systems Analysis and Design**, **Advanced Programming** and **Programming Basics**. I was also **Co-Head of Data Structures**, leading the exercises section and designing practice problems and assignments with the teaching team.
 
-## 🛠️ Tech stack
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg"><img src="assets/sec-stack-light.svg" alt="Stack" width="100%"></picture></h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,c,cs,js" alt="Languages and ML frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,django,dotnet,postgres,sqlite,git,github,figma" alt="Web, back end, databases and tools">
-</p>
+<table>
+  <tr><th align="left" scope="row">Languages</th><td><code>Python</code> <code>Java</code> <code>C</code> <code>C++</code> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <code>Prolog</code></td></tr>
+  <tr><th align="left" scope="row">Machine learning</th><td><code>PyTorch</code> <code>TensorFlow</code> <code>scikit-learn</code> <code>NumPy</code> <code>pandas</code> <code>OpenCV</code></td></tr>
+  <tr><th align="left" scope="row">Web</th><td><code>React</code> <code>Vue.js</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>HTML</code> <code>CSS</code></td></tr>
+  <tr><th align="left" scope="row">Back end and data</th><td><code>Django</code> <code>.NET</code> <code>GraphQL</code> <code>PostgreSQL</code> <code>SQLite</code> <code>Redis</code></td></tr>
+  <tr><th align="left" scope="row">Tools</th><td><code>Git</code> <code>GitHub Actions</code> <code>Figma</code> <code>Jupyter</code></td></tr>
+</table>
 
-## 🐍 Contribution snake
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-snake-dark.svg"><img src="assets/sec-snake-light.svg" alt="Contribution graph" width="100%"></picture></h3>
 
 <p align="center">
   <picture>
@@ -111,9 +113,13 @@ Teaching assistant at the University of Isfahan for **AI Fundamentals and Applic
   </picture>
 </p>
 
-## 🌐 Contact
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-contact-dark.svg"><img src="assets/sec-contact-light.svg" alt="Contact" width="100%"></picture></h3>
+
+Email is the best way to reach me: **[ftmdkf@gmail.com](mailto:ftmdkf@gmail.com)**. I'm also on [LinkedIn](https://www.linkedin.com/in/fatemeh-sayadzadeh/).
 
 <p align="center">
-  <a href="mailto:ftmdkf@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/fatemeh-sayadzadeh/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" alt="" width="100%">
+  </picture>
 </p>
