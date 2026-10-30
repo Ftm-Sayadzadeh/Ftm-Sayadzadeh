@@ -12,7 +12,7 @@
 
 ## About
 
-I'm a computer engineering graduate of the University of Isfahan and now an **M.Sc. student in Artificial Intelligence**. I like to build an algorithm myself first — a neural network, a genetic algorithm, a retrieval pipeline — and then measure what it actually learned, including where it falls short. I have also spent several semesters teaching the courses I took.
+I hold a B.Sc. in computer engineering from the University of Isfahan and I'm now an **M.Sc. student in Artificial Intelligence at Isfahan University of Technology**. I like to build an algorithm myself first — a neural network, a genetic algorithm, a retrieval pipeline — and then measure what it actually learned, including where it falls short. I have also spent several semesters teaching the courses I took.
 
 - 🧠 Interested in machine learning, retrieval-augmented generation and data-driven systems
 - 💻 Experienced in full-stack and back-end development (React, Vue.js, Django, .NET)
