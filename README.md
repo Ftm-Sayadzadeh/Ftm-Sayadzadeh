@@ -92,7 +92,7 @@ Every course project lives in a repository of its own.
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-teaching-dark.svg"><img src="assets/sec-teaching-light.svg" alt="Teaching" width="100%"></picture></h3>
 
-Teaching assistant at the University of Isfahan for **AI Fundamentals and Applications**, **Data Mining**, **Database Design Principles**, **Operating Systems**, **Formal Languages and Automata Theory**, **Data Structures**, **Systems Analysis and Design**, **Advanced Programming** and **Programming Basics**. I was also **Co-Head of Data Structures**, leading the exercises section and designing practice problems and assignments with the teaching team.
+Teaching assistant at the University of Isfahan for **AI Fundamentals and Applications**, **Data Mining**, **Database Design Principles**, **Operating Systems**, **Formal Languages and Automata Theory**, **Data Structures**, **Systems Analysis and Design**, **Advanced Programming** and **Programming Basics**. I was also **Co-Head of Data Structures**, leading the exercises section and designing practice problems and assignments with the teaching team. For AI Fundamentals and Applications I also designed **Neon Hunt**, a course project in which students write a Minimax and Alpha-Beta player for an escape game, together with its autograder ([repository](https://github.com/UI-AIFA-4042/minmax-project)).
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg"><img src="assets/sec-stack-light.svg" alt="Stack" width="100%"></picture></h3>
 
