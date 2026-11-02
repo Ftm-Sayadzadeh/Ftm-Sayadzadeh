@@ -82,7 +82,7 @@ Every course project lives in a repository of its own.
 | **Machine Learning** | [BSc-Machine-Learning-Assignments](https://github.com/Ftm-Sayadzadeh/BSc-Machine-Learning-Assignments) |
 | **Deep Learning** | [BSc-Deep-Learning-Assignments](https://github.com/Ftm-Sayadzadeh/BSc-Deep-Learning-Assignments) |
 | **Computational Intelligence** | [BSc-Computational-Intelligence-Assignments](https://github.com/Ftm-Sayadzadeh/BSc-Computational-Intelligence-Assignments) |
-| **AI Fundamentals and Applications** | [AI_Fundamentals](https://github.com/Ftm-Sayadzadeh/AI_Fundamentals) |
+| **AI Fundamentals and Applications** | [BSc-AI-Fundamentals-Assignments](https://github.com/Ftm-Sayadzadeh/BSc-AI-Fundamentals-Assignments) |
 | **Internet of Things** | [IOT-SmartHome](https://github.com/Ftm-Sayadzadeh/IOT-SmartHome) |
 | **Data Structures** | [DataBase-BPTree](https://github.com/Ftm-Sayadzadeh/DataBase-BPTree) · [Search-Engine](https://github.com/Ftm-Sayadzadeh/Search-Engine) · [LinkedIn-Graph](https://github.com/Ftm-Sayadzadeh/LinkedIn-Graph) · [Calculator](https://github.com/Ftm-Sayadzadeh/Calculator) |
 | **Advanced Programming** | [Online-Shop](https://github.com/Ftm-Sayadzadeh/Online-Shop) · [Clash-Of-Clans](https://github.com/Ftm-Sayadzadeh/Clash-Of-Clans) · [Chatroom](https://github.com/Ftm-Sayadzadeh/Chatroom) |
@@ -92,7 +92,7 @@ Every course project lives in a repository of its own.
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-teaching-dark.svg"><img src="assets/sec-teaching-light.svg" alt="Teaching" width="100%"></picture></h3>
 
-Teaching assistant at the University of Isfahan for **AI Fundamentals and Applications**, **Data Mining**, **Database Design Principles**, **Operating Systems**, **Formal Languages and Automata Theory**, **Data Structures**, **Systems Analysis and Design**, **Advanced Programming** and **Programming Basics**. I was also **Co-Head of Data Structures**, leading the exercises section and designing practice problems and assignments with the teaching team. For AI Fundamentals and Applications I also designed **Neon Hunt**, a course project in which students write a Minimax and Alpha-Beta player for an escape game, together with its autograder ([repository](https://github.com/UI-AIFA-4042/minmax-project)).
+Teaching assistant at the University of Isfahan for **AI Fundamentals and Applications**, **Data Mining**, **Database Design Principles**, **Operating Systems**, **Formal Languages and Automata Theory**, **Data Structures**, **Systems Analysis and Design**, **Advanced Programming** and **Programming Basics**. I was also **Co-Head of Data Structures**, leading the exercises section and designing practice problems and assignments with the teaching team. For AI Fundamentals and Applications I also designed **Neon Hunt**, a course project in which students write a Minimax and Alpha-Beta player for an escape game, together with its autograder ([repository](https://github.com/Ftm-Sayadzadeh/Neon-Hunt)).
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg"><img src="assets/sec-stack-light.svg" alt="Stack" width="100%"></picture></h3>
 
